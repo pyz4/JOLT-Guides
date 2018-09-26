@@ -15,11 +15,6 @@
   * [Citations](reports/reportstylecitation/citations.md)
   * [Substance](reports/reportstylecitation/substance.md)
 
-## Flash Digest
-
-* [Contributor's Guide](flash-digest/flashdigestcontributorguide.md)
-* [Editor's Guide](flash-digest/flashdigesteditorguide.md)
-
 ## Notes
 
 * [Contributor's Guide](notes/notecontributorguide.md)
@@ -42,4 +37,3 @@
   * [Symbols](comments/commentstylecitation/symbols.md)
   * [Quotations](comments/commentstylecitation/quotations.md)
   * [Citations](comments/commentstylecitation/citations.md)
-
