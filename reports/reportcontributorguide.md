@@ -35,7 +35,7 @@ The SMC will send you and the Report Editor an assigning email with:
    1. Background \(parties, procedural posture, etc.\)
    2. Significance of the case/legislation
    3. Link or attachment to primary source
-4. Link to [Contributor](reportcontributorguide.md#welcome-to-the-report-contributors-guide), [Editor](reporteditorguide.md#welcome-to-the-report-editors-guide), and [Style & Citation Guide](reportstylecitation/)
+4. Link to [Contributor](reportcontributorguide.md#welcome-to-the-report-contributors-guide), [Editor](reporteditorguide.md#welcome-to-the-report-editors-guide), and [Style & Citation Guide](reportstylecitation.md)
 5. Credentials for online Bluebook access
 
 If the email is missing any information OR you have questions: immediately contact your Subject Matter Coordinator. If the Coordinator does not respond, feel free to contact the Digest Executive Editor, who are also available to answer questions.
@@ -74,7 +74,7 @@ In addition to summarizing the case, your article should also include at least 2
 
 You can find an example of a Digests post [here](http://jolt.law.harvard.edu/digest/two-way-media-v-comcast).
 
-You should follow the appropriate Digest Report guides: [Style & Citations Guide](reportstylecitation/), [Contributor's Guide](reportcontributorguide.md), and [Editor's Guide](reporteditorguide.md). On occasion, the Style Guide requires you to follow the Bluebook \(though we never pincite\). JOLT maintains several online bluebook accounts to help with that process. Log-in with the following credentials at [www.legalbluebook.com](http://www.legalbluebook.com/).
+You should follow the appropriate Digest Report guides: [Style & Citations Guide](reportstylecitation.md), [Contributor's Guide](reportcontributorguide.md), and [Editor's Guide](reporteditorguide.md). On occasion, the Style Guide requires you to follow the Bluebook \(though we never pincite\). JOLT maintains several online bluebook accounts to help with that process. Log-in with the following credentials at [www.legalbluebook.com](http://www.legalbluebook.com/).
 
 Accounts: \[excluded\]
 
@@ -111,7 +111,7 @@ The purpose of _Digest_ reports is to provide a relatively brief and ideological
 
 {% tabs %}
 {% tab title="Instructions" %}
-As a Contributor, you are responsible for the technical and substantive accuracy of the report. Refer to the [Citation, Style, and Substance Guide](reportstylecitation/) for:
+As a Contributor, you are responsible for the technical and substantive accuracy of the report. Refer to the [Citation, Style, and Substance Guide](reportstylecitation.md) for:
 
 1. What to look for in a case or legislation
 2. How to format citations
@@ -153,7 +153,7 @@ Examples can be found [here](http://jolt.law.harvard.edu/digest/doj-v-bmi-doj-ar
 >
 > **\[Title\]**  
 > By \[author\] – Edited by \[editor\]  
-> \[Full citation of main case, hyperlinked to a primary source. See [Citations](reportstylecitation/#citations) for an example.\]
+> \[Full citation of main case, hyperlinked to a primary source. See [Citations](reportstylecitation.md#citations) for an example.\]
 >
 > The \[insert court name\] \(affirmed/reversed/reversed & vacated\) the \[insert lower court name\], which had \[insert description of lower court’s holding & order\].
 >

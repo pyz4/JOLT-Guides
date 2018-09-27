@@ -1,6 +1,6 @@
 # Style & Citations Guide
 
-This guide will provide an overview of how to review the **substantive** and **technical** accuracy of a Digest Report. Digest Reports, as compared to Digest Commentaries, are brief summaries of important developments in law and technology. The purpose of Digests Reports is to break down complex legal and technical issues for readers who may not be familiar with the topic. The Digest Reports page also serves as a resource for attorneys who practice within the field of Internet and technology law to keep them apprised of new precedent or legislation.
+Digest Reports are brief summaries of important developments in law and technology. The purpose of Digests Reports is to break down complex legal and technical issues for readers who may not be familiar with the topic. The Digest Reports also serve to keep attorneys who practice within the field of Internet and technology law apprised of new precedent or legislation.
 
 ## Requirements {#requirements}
 
@@ -18,7 +18,7 @@ Since Digest is available online, some formatting preferences may be different, 
 
 * Only one space between sentences.
 * Do not include spaces around an em dash \(“—“\)
-* Quotation marks around acronyms located in parentheticals, e.g. Digital Millennium Copyright Act of 1998 \(“DMCA”\)
+* Quotation marks around acronyms located in parenthetical, e.g. Digital Millennium Copyright Act of 1998 \(“DMCA”\)
 * Do not capitalize mid-sentence generic party names: plaintiff, defendant, appellee, and appellant
 * Do not hyphenate the following words: decisionmaker, factfinder
 * Do not use underlining for emphasis. This can easily be mistaken for a broken link.
@@ -31,7 +31,7 @@ When listing three or more things, separate each pair with a comma, including th
 
 ## Symbols {#symbols}
 
-Outside of citations, do not use "§" and "¶." Instead, always spell out and capitalize "Section" and "Paragraphs" in place of symbols.
+Outside of citations, do not use "§" and "¶." Instead, spell out and capitalize "Section" and "Paragraphs" in place of symbols.
 
 ## Quotations {#quotations}
 
@@ -43,7 +43,7 @@ If you are quoting a source, make sure to review the Bluebook Rule 5: Quotations
 
 Despite the Digest’s more informal style, we strive to maintain the high standards for JOLT student writing by citing sources consistently.
 
-Documents that are the focus of an article, such as a slip opinion, statute, letter, etc., should be properly Bluebooked and located at the beginning of the article. Pincites should not be included throughout the article.
+Documents that are the focus of an article, such as a slip opinion, statute, letter, etc., should be properly Bluebooked and located at the beginning of the article. Pincites need not be included throughout the article.
 
 > **DOJ v. BMI: DOJ Argues BMI’s Fractional Licensing Practice Violates Consent Decree**  
 > By \[author\] -- Edited by \[editor\]  
@@ -75,7 +75,7 @@ Where it is awkward or undesirable to name the source in the sentence, create a 
 
 ### Law Review Articles
 
-In-text citations to law review articles need not be in Bluebook format, but should indicate the name of the author\(s\) and link to a PDF of the article. As with online news sources, hyperlink the name of the source where possible, but put the link on a descriptive phrase otherwise.
+In-text citations to law review articles need not be in Bluebook format but should indicate the name of the author\(s\) and link to a PDF of the article. As with online news sources, hyperlink the name of the source where possible, but put the link on a descriptive phrase otherwise.
 
 > **Example:** The Innovator’s Patent Agreement bears similarities to the [defensive patent license \(“DPL”\) proposed](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2040945) by Jason Schultz and Jennifer Urban.
 
@@ -108,11 +108,15 @@ Remember that, for purposes of short forms, a citation to a court document inclu
 
 Since _Digest_ posts are often more recent than print articles, they often rely on pending cases, rule 10.8.\* Make sure to cite slip opinions \(rule 10.8.1\(b\)\) and cases decided en banc \(rule 10.6.1\) as appropriate.
 
-**Abbreviations** -- As per Bluebook Rule 10.2.1\(c\), when citing within the text, only abbreviate obvious names \(e.g. NLRB, EPA\) and any of the following eight words, but only if they do not begin a party’s name: “&,” “Ass’n,” “Bros.,” “Co.,” “Corp.,” “Inc.,” “Ltd.,” and “No.”
+### Abbreviations
+
+As per Bluebook Rule 10.2.1\(c\), when citing within the text, only abbreviate obvious names \(e.g. NLRB, EPA\) and any of the following eight words, but only if they do not begin a party’s name: “&,” “Ass’n,” “Bros.,” “Co.,” “Corp.,” “Inc.,” “Ltd.,” and “No.”
 
 Where case names are included in endnotes, follow case name abbreviations in Table 6 of the Bluebook.
 
-**Hosted By** -- If a PDF of a court document is available through an open access online source \(i.e., not through Westlaw or Lexis Nexis\), hyperlink to the source from the document type or, if none, case name in the Bluebook citation. If the PDF is hosted by a non-court source, include “hosted by” language with the hyperlink on the document type \(not a Bluebook abbreviation\).
+### **Hosted Sources**
+
+If a PDF of a court document is available through an open access online source \(i.e., not through Westlaw or Lexis Nexis\), hyperlink to the source from the document type or, if none, case name in the Bluebook citation. If the PDF is hosted by a non-court source, include “hosted by” language with the hyperlink on the document type \(not a Bluebook abbreviation\).
 
 > **Example:** [MGA Entertainment, Inc. v. Mattel, Inc.](http://www.sunsteinlaw.com/media/BratzTCC.pdf), No. 09-55673 \(9th Cir. July 22, 2010\), hosted by sunsteinlaw.com.  
 > **Example:** Viacom International Inc. v. YouTube, Inc., No. 07 Civ. 2103 \(S.D.N.Y. June 23, 2010\), [slip opinion](http://docfiles.justia.com/cases/federal/district-courts/new-york/nysdce/1:2007cv02103/302164/364/0.pdf), hosted by Justia.com.  
@@ -121,7 +125,7 @@ Where case names are included in endnotes, follow case name abbreviations in Tab
 
 ## Substance {#substance}
 
-Keep in mind that the value of _Digest_ depends heavily on its accuracy. Please check your piece against the following guidelines **before** emailing the draft.
+Keep in mind that the value of _Digest_ depends heavily on its accuracy. Please check your piece against the following guidelines **before** submitting the draft.
 
 **Cases** -- If the topic deals extensively with statutes or previous previous cases, please be sure those are mentioned and briefly described in the article. If possible, please also hyperlink to an online source \(particularly Digest coverage of previous cases, if available\).
 
@@ -171,7 +175,7 @@ Keep in mind that the value of _Digest_ depends heavily on its accuracy. Please 
 
 ## Locating Relevant Material and Commentary {#relevant}
 
-**All** articles should hyperlink to the original source material \(e.g., court opinion or filing, legislation\). In addition, all articles should have **at least** 2 hyperlinks to related materials and/or commentary. They can include:
+Reports should hyperlink to the original source material \(e.g., court opinion or filing, legislation\). In addition, all reports should have **at least** 2 hyperlinks to related materials and/or commentary. They can include:
 
 * Briefs \(filed by the party or amicus\)
 * Legal blogs
@@ -189,7 +193,7 @@ Below is a rough procedure for identifying possible hyperlinks:
    * **blog links.** To search legal blogs, please use Google Blog Search
    * **SSRN papers** \(include "SSRN" as a keyword in the Google search\)
 4. Search for JOLT articles: In **Westlaw** use the database "HVJLT" and use keywords from the case. Suggest any results that discuss the related topic.
-5. Search for JOLT _Digest_ articles on the _Digest_ website. Use the search bar to search for related articles.
+5. Search for [JOLT _Digest_ Report](https://jolt.law.harvard.edu/digest/category/?cat=reports). Use the search bar to search for related articles.
 
 ### Key Blogs
 

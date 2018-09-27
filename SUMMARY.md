@@ -6,14 +6,7 @@
 
 * [Contributor's Guide](reports/reportcontributorguide.md)
 * [Editor's Guide](reports/reporteditorguide.md)
-* [Style & Citations Guide](reports/reportstylecitation/README.md)
-  * [Requirements](reports/reportstylecitation/requirements.md)
-  * [Style](reports/reportstylecitation/style.md)
-  * [Commas](reports/reportstylecitation/commas.md)
-  * [Symbols](reports/reportstylecitation/symbols.md)
-  * [Quotations](reports/reportstylecitation/quotations.md)
-  * [Citations](reports/reportstylecitation/citations.md)
-  * [Substance](reports/reportstylecitation/substance.md)
+* [Style & Citations Guide](reports/reportstylecitation.md)
 
 ## Notes
 

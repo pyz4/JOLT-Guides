@@ -27,7 +27,7 @@ Please see [Step 2 in the Contributor's Guide](reportcontributorguide.md#step-2-
 
 ## Step 3: Editing {#step4}
 
-As an Report Editor, you will work with the Contributor to ensure the report is publication-ready. You should make sure that the Contributor's piece follows the [Style & Citations Guide](reportstylecitation/) and comply with the recommendations laid out in [Step 3 of the Contributor's Guide](reportcontributorguide.md#step3). 
+As an Report Editor, you will work with the Contributor to ensure the report is publication-ready. You should make sure that the Contributor's piece follows the [Style & Citations Guide](reportstylecitation.md) and comply with the recommendations laid out in [Step 3 of the Contributor's Guide](reportcontributorguide.md#step3). 
 
 Enter your edits directly into the Google Docs in ["Suggest Edits" mode](https://support.google.com/docs/answer/6033474?co=GENIE.Platform%3DDesktop&hl=en).
 

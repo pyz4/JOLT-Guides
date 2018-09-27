@@ -8,7 +8,7 @@ The Digest features short articles on new, precedential, or interesting cases; n
 
 ## Do you conform with the Oxford Comma?
 
-Yes. Read more [here](reports/reportstylecitation/#commas).
+Yes. Read more [here](reports/reportstylecitation.md#commas).
 
 ## Meet the editing team!
 

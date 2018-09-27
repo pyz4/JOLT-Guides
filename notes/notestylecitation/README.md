@@ -37,7 +37,7 @@ There are also some additional requirements specific to a _Digest_ Note:
 
 ## Commas {#commas}
 
-Use the serial comma. Read [here](../../reports/reportstylecitation/#commas) for more information.
+Use the serial comma. Read [here](../../reports/reportstylecitation.md#commas) for more information.
 
 ## Symbols {#symbols}
 
