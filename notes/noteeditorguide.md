@@ -22,7 +22,7 @@ You will help the Contributor meet the [requirements](notecontributorguide.md#re
 * review for substantive and grammatical errors.
 * ensure accurate citations.
 
-## Editing Process in a Nutshell {#nutshell}
+## Editing Process in a Nutshell <a id="nutshell"></a>
 
 The process can be broken down into the following steps.
 
@@ -31,7 +31,7 @@ The process can be broken down into the following steps.
 3. [Second Draft](noteeditorguide.md#second)
 4. [Submission](noteeditorguide.md#submission)
 
-## Outline/Rough Draft {#outline}
+## Outline/Rough Draft <a id="outline"></a>
 
 After proposing a writing topic, the Contributor will email an outline for you to review. While the outline should be more than the initial proposal---reflecting some research---it need not be a complete draft.
 
@@ -44,7 +44,7 @@ Aim to provide substantive feedback on the outline before the Contributor starts
 
 You should be available to field the Contributor's questions throughout the process but especially in the beginning. There may be multiple iterations of the outline. Focus on the substance and aim to minimize the number of major substantive edits you and the Contributor will have to make on the drafts.
 
-## First Draft {#first}
+## First Draft <a id="first"></a>
 
 The Contributor will email you the first draft in a Microsoft Word Document format. You will have **one week** to review the Note. You should
 
@@ -60,7 +60,7 @@ Name the marked-up draft document in the following manner.
 
 Afterwards, email the marked-up draft to the Contributor and CC the \[Submissions Editor\] and joltdigest@mail.law.harvard.edu.
 
-## Second Draft {#second}
+## Second Draft <a id="second"></a>
 
 In between the first and second drafts, you should be available to the Contributor for any substantive or grammatical questions. The editing process for the second draft should adhere to the same guidelines as that for the first draft. By the time the second draft is formally submitted, the Note should be organized and coherent.
 
@@ -70,7 +70,7 @@ Once you receives the second draft, your next step is dependent on what changes 
 
 If major substantive changes need to be made to the Note at this point, you should email the \[Submissions Editor\] and joltdigest@mail.law.harvard.edu a copy of the Note and a description of these proposed major changes. The _Digest_ Masthead will look at the Note and determine whether these major changes can be made in time for publication or if publication of the Note’s publication needs to be delayed.
 
-## Submission {#submission}
+## Submission <a id="submission"></a>
 
 Once you and the Contributor agree on the final draft, email it to
 

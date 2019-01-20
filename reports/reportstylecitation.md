@@ -2,7 +2,7 @@
 
 Digest Reports are brief summaries of important developments in law and technology. The purpose of Digests Reports is to break down complex legal and technical issues for readers who may not be familiar with the topic. The Digest Reports also serve to keep attorneys who practice within the field of Internet and technology law apprised of new precedent or legislation.
 
-## Requirements {#requirements}
+## Requirements <a id="requirements"></a>
 
 **All** articles should hyperlink to the original source material, preferably a PDF \(e.g., court opinion or filing, legislation\). Additionally, we recommend that all articles should have at least 2 hyperlinks to related material and/or commentary. They can include:
 
@@ -12,7 +12,7 @@ Digest Reports are brief summaries of important developments in law and technolo
 
 Contributions should pull from a variety of sources and should be more than just reiterations of existing commentary or reporting. The 2-link minimum is exactly that – a minimum. Points should generally be well supported and should link to related content whenever possible.
 
-## Style {#style}
+## Style <a id="style"></a>
 
 Since Digest is available online, some formatting preferences may be different, so this Digest citation guide supersedes the generic JOLT Style Guide. Below are some common items to check:
 
@@ -23,23 +23,23 @@ Since Digest is available online, some formatting preferences may be different, 
 * Do not hyphenate the following words: decisionmaker, factfinder
 * Do not use underlining for emphasis. This can easily be mistaken for a broken link.
 
-## Commas {#commas}
+## Commas <a id="commas"></a>
 
 When listing three or more things, separate each pair with a comma, including the last pair. The last comma precedes the coordinating conjunction \(e.g. _and_ or _or_\).
 
 > **Example:** Lions, tigers, and bears.
 
-## Symbols {#symbols}
+## Symbols <a id="symbols"></a>
 
 Outside of citations, do not use "§" and "¶." Instead, spell out and capitalize "Section" and "Paragraphs" in place of symbols.
 
-## Quotations {#quotations}
+## Quotations <a id="quotations"></a>
 
 If you are quoting a source, make sure to review the Bluebook Rule 5: Quotations for formatting, alterations, internal quotations, and omissions.
 
 **Block Quotes** — avoid them. You’ll already be linking the reader to the source so there’s no need to quote in length. The exception to this rule, though, is the situation when you are analyzing statutory language; in that case, having the statute conveniently displayed in the body of the article is encouraged.
 
-## Citations {#citations}
+## Citations <a id="citations"></a>
 
 Despite the Digest’s more informal style, we strive to maintain the high standards for JOLT student writing by citing sources consistently.
 
@@ -123,7 +123,7 @@ If a PDF of a court document is available through an open access online source \
 > **Example:** Complaint for Declaratory Judgment and Injunctive Relief, GoldieBlox, Inc. v. Island Def Jam Music Group, A Div. of UMG Recordings, Inc., No. 3:13-cv-05428 \(N.D. Cal. Nov. 21, 2013\), [complaint](http://www.scribd.com/doc/186402972/Beastie) hosted by Scribd.  
 > **Not:** Viacom Int’l Inc. v. YouTube, Inc., No. 07 Civ. 2103 \(S.D.N.Y. June 23, 2010\), [slip op.](https://cases.justia.com/federal/district-courts/new-york/nysdce/1:2007cv02103/302164/364/0.pdf) hosted by Justia.com
 
-## Substance {#substance}
+## Substance <a id="substance"></a>
 
 Keep in mind that the value of _Digest_ depends heavily on its accuracy. Please check your piece against the following guidelines **before** submitting the draft.
 
@@ -173,7 +173,7 @@ Keep in mind that the value of _Digest_ depends heavily on its accuracy. Please 
 
 **Links** -- check that all your hyperlinks point to the correct site and that all sources or mentioned cases or legislation are hyperlinked where possible.
 
-## Locating Relevant Material and Commentary {#relevant}
+## Locating Relevant Material and Commentary <a id="relevant"></a>
 
 Reports should hyperlink to the original source material \(e.g., court opinion or filing, legislation\). In addition, all reports should have **at least** 2 hyperlinks to related materials and/or commentary. They can include:
 

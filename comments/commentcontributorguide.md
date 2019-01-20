@@ -6,7 +6,7 @@ The JOLT _Digest_ Commentary section is a new platform for professionals, academ
 
 _Digest_ Comments are about 2,000 words and can come in several general forms: opinion pieces, primers, or responses. This guide will provide an overview of your responsibilities as the author of a _Digest_ Comment.
 
-## Writing Process in a Nutshell {#nutshell}
+## Writing Process in a Nutshell <a id="nutshell"></a>
 
 The Commentary writing process can be broken down into the following steps.
 
@@ -15,7 +15,7 @@ The Commentary writing process can be broken down into the following steps.
 * [Step 3](commentcontributorguide.md#step3): Digest Masthead Edits
 * [Step 4](commentcontributorguide.md#step4): Finalizing the Comment
 
-## Step 1: Getting Started {#step1}
+## Step 1: Getting Started <a id="step1"></a>
 
 You, the Comment author, are hoping to publish a Comment with JOLT _Digest_. Your first task is to come up with a topic. Because Comments should be timely and related to law and technology, you can run your topic by the Digest Executive Editor. However, you can also submit a draft without asking us beforehand.
 
@@ -43,7 +43,7 @@ A primer can also address several issues related to the topic. For example, you 
 
 Response pieces must reply to a JOLT publication. We strongly favor responses to articles published in our print edition. Authors should clearly identify the contested article, acknowledge where they agree with the JOLT publication and where they disagree. JOLT _Digest_ will inform the author of the contested article that a response is being drafted so that he or she has the option to draft a rebuttal.
 
-## Step 2: Drafting the Comment {#step2}
+## Step 2: Drafting the Comment <a id="step2"></a>
 
 If seeking our approval for your topic, you must send us a draft within two \(2\) weeks of receiving our confirmation. The Comment must be consistent with the [Digest Commentary Style Guide](commentstylecitation/).
 
@@ -51,11 +51,11 @@ The final Comment should be around 2,000 words in length. Because Digest’s rea
 
 You may include a short biography at the end of the Comment, as well as links to your social media accounts.
 
-## Step 3: Digest Masthead Edits {#step3}
+## Step 3: Digest Masthead Edits <a id="step3"></a>
 
 Please send your completed draft to the Digest Executive Editor \(currently Filippo Raso\). The Digest Executive Editor will review the Comment for factual accuracy, compliance with the style guide, and organization. The Digest Executive Editor will only reject claims that are patently untrue, though he may request additional sources to establish the validity of a claim.
 
-## Step 4: Finalizing the Comment {#step4}
+## Step 4: Finalizing the Comment <a id="step4"></a>
 
 The Digest Executive Editor will return the Comment to you for your final review. Please address his comments. With your approval, he will post the final article on the Digest Commentary page.
 

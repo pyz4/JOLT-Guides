@@ -17,7 +17,7 @@ Subject Matter Coordinators \(SMCs\) are constantly looking for cutting edge dev
 
 Unless otherwise noted, all of the following communications are designed to \(and should\) occur via email.
 
-## Step 1: Getting Started {#step1}
+## Step 1: Getting Started <a id="step1"></a>
 
 You, the _Digest_ Contributor, will be assigned reports according to the availability and subject matter preferences you submitted in the sign-up survey. SMCs will simultaneously assign Report Editors and Contributors to a topic. Unless your Coordinator specified otherwise, you will have **four days** to finish a draft.
 
@@ -97,7 +97,7 @@ After receiving your assignment from the Subject Matter Coordinator \(SMC\), imm
 
 If you simply cannot write the report within the required time, please let the SMC know as soon as possible so the SMC can find another Contributor. Note that you may not have the opportunity to write a Digest report at a later time.
 
-## Step 3: Drafting the Report {#step3}
+## Step 3: Drafting the Report <a id="step3"></a>
 
 The purpose of _Digest_ reports is to provide a relatively brief and ideologically-neutral overview of their subject.
 
@@ -166,10 +166,6 @@ Examples can be found [here](http://jolt.law.harvard.edu/digest/doj-v-bmi-doj-ar
 > The \[insert hyperlink\] provides an overview of the case. \[insert hyperlink to commentary\] criticizes the decision \[insert one-phrase summary of criticism\]. \[Insert brief 2–4 sentence discussion of why case is significant \(if known\)\]
 {% endtab %}
 
-{% tab title="" %}
-
-{% endtab %}
-
 {% tab title="Sample Legislation Report" %}
 See [example](https://jolt.law.harvard.edu/digest/coalition-of-32-state-ags-outline-opposition-to-federal-preemption-of-state-data-breach-notification-laws).
 
@@ -193,7 +189,7 @@ See [example](https://jolt.law.harvard.edu/digest/coalition-of-32-state-ags-outl
 {% endtab %}
 {% endtabs %}
 
-## Step 4: Forwarding the Report {#step4}
+## Step 4: Forwarding the Report <a id="step4"></a>
 
 {% hint style="success" %}
 #### Your Responsibilities
