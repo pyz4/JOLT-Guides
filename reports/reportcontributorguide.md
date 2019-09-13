@@ -17,7 +17,7 @@ Subject Matter Coordinators \(SMCs\) are constantly looking for cutting edge dev
 
 Unless otherwise noted, all of the following communications are designed to \(and should\) occur via email.
 
-## Step 1: Getting Started {#step1}
+## Step 1: Getting Started <a id="step1"></a>
 
 You, the _Digest_ Contributor, will be assigned reports according to the availability and subject matter preferences you submitted in the sign-up survey. SMCs will simultaneously assign Report Editors and Contributors to a topic. Unless your Coordinator specified otherwise, you will have **four days** to finish a draft.
 
@@ -52,7 +52,7 @@ Please reply all to this email and confirm that you are able to take on this wee
 
 **Assignment:** summarize Aatrix Software, Inc. v. Green Shades Software, Inc., No. 2017-1452, 2018 WL 843288 \(Fed. Cir. Feb. 14, 2018\) along with links to at least two outside sources. You can find examples of posts at [https://jolt.law.harvard.edu/digest/category/?cat=patent](https://jolt.law.harvard.edu/digest/category/?cat=patent).
 
-**Draft Deadline** \(Contributor send draft to me and Editor\): 11:59 p.m. Wed, Feb 21.
+**Draft Deadline** \(Contributor send draft to me and Editor\): 11:59 p.m. Thurs, Feb 22.
 
 **Edits Deadline** \(Editor send marked up draft to me and Contributor\): 11:59 p.m. Sat, Feb 24.
 
@@ -97,7 +97,7 @@ After receiving your assignment from the Subject Matter Coordinator \(SMC\), imm
 
 If you simply cannot write the report within the required time, please let the SMC know as soon as possible so the SMC can find another Contributor. Note that you may not have the opportunity to write a Digest report at a later time.
 
-## Step 3: Drafting the Report {#step3}
+## Step 3: Drafting the Report <a id="step3"></a>
 
 The purpose of _Digest_ reports is to provide a relatively brief and ideologically-neutral overview of their subject.
 
@@ -193,7 +193,7 @@ See [example](https://jolt.law.harvard.edu/digest/coalition-of-32-state-ags-outl
 {% endtab %}
 {% endtabs %}
 
-## Step 4: Forwarding the Report {#step4}
+## Step 4: Forwarding the Report <a id="step4"></a>
 
 {% hint style="success" %}
 #### Your Responsibilities
@@ -210,7 +210,7 @@ Please share your draft on Google Doc with the following:
 * Assigning Subject Matter Coordinator
 * Digest Executive Editor \(joltdigest@mail.law.harvard.edu\)
 
-The easiest way to do this is to share a link in the assigning email thread. The Editor will have about three days to add comments and suggestions in the Google Doc. Please review them, finalize the draft, and notify the assigning SMC \(via the email thread\). The SMC will take one last look and may offer an additional round of comments to be reviewed before sending it to production.
+The easiest way to do this is to share a link in the assigning email thread. The Editor will have about two days to add comments and suggestions in the Google Doc. Please review them, finalize the draft, and notify the assigning SMC \(via the email thread\). The SMC will take one last look and may offer an additional round of comments to be reviewed before sending it to production.
 
 Expect a follow-up email from the SMC once your piece goes live.
 

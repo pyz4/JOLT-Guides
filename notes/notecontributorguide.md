@@ -10,7 +10,7 @@ You should make sure that your Note idea is not preempted; do some background re
 
 1. Respond to suggestions from the [Note Editor](noteeditorguide.md).
 
-## Requirements {#requirements}
+## Requirements <a id="requirements"></a>
 
 ### Novelty
 
@@ -56,7 +56,7 @@ Please submit drafts as either .doc or .docx files. Label drafts in the followin
 > `contributor_name` `draft_version` `date_emailed`  
 > **Example:** Fishwick First Draft 2017-06-30.doc
 
-## Writing Process in a Nutshell {#nutshell}
+## Writing Process in a Nutshell <a id="nutshell"></a>
 
 The process can be broken down into the following steps.
 
@@ -65,13 +65,13 @@ The process can be broken down into the following steps.
 3. [Second Draft](notecontributorguide.md#second)
 4. [Submission](notecontributorguide.md#submission)
 
-## Outline/Rough Draft {#outline}
+## Outline/Rough Draft <a id="outline"></a>
 
 This is an opportunity for the Note Editor to provide feedback on the Note in the early stages of writing it, so that you can tailor, structure, and address issues. The outline/draft should be more than the proposal, and should reflect some research, but it needn’t be a complete article. The Note Editor should be available in case you have questions or would like help with the direction of the Note.
 
 There may be multiple back-and-forths with the Note Editor on the outline. This is ok: you want to minimize the number of major substantive edits once you start writing.
 
-## First Draft {#first}
+## First Draft <a id="first"></a>
 
 **Your Tasks**
 
@@ -98,7 +98,7 @@ If at any point the Note Editor has a question or concern regarding the Note or 
 
 In between the first and second drafts, feel free to reach out to the Note Editor for any substantive or grammatical questions. The editing process for the second draft should adhere to the same guidelines as the editing process for the first draft. By the time the second draft is formally submitted, the Note should be organized and coherent. Most if not all sources should be found.
 
-## Second Draft {#second}
+## Second Draft <a id="second"></a>
 
 **Your Tasks**
 
@@ -118,7 +118,7 @@ If all the necessary changes are grammatical and there are only very minor subst
 
 If the Note requires substantial change, the Note Editor should email \[Submissions Editor email\] and joltdigest@mail.law.harvard.edu a copy of the Note and a description of these proposed major changes. The Digest Masthead will look at the Note and determine whether these major changes can be made in time for publication or if publication of the Note’s publication needs to be delayed. You should be working closely with the Note Editor throughout the editing process so that substantive changes will not be necessary at this point.
 
-## Submission {#submission}
+## Submission <a id="submission"></a>
 
 After both you and your Note Editor agree on the final draft, the Note Editor will email this finalized draft to
 

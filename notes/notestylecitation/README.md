@@ -4,15 +4,15 @@
 
 _Digest_ Notes are JOLT Student Notes adapted for the online medium. This means you will need to follow the style and citation rigor expected in a Law Journal Note, subject to a few adaptions for it being posted online.
 
-## Requirements {#req}
+## Requirements <a id="req"></a>
 
 Follow The Bluebook \(20th Edition\) whitepages where its rules do not directly conflict with the rules laid out here.
 
-## Organization {#org}
+## Organization <a id="org"></a>
 
 Use section headings to separate your Note into digestable parts. Do not precede your section headings with any counters \(e.g. Roman Numerals, Arabic Numerals, Letters, etc.\). Do not use subsections.
 
-## Citations {#citations}
+## Citations <a id="citations"></a>
 
 Provide a citation for every statement that is not your original idea.
 
@@ -20,7 +20,7 @@ As _Digest_ Notes are not paginated, do not use footnotes. Your citations will, 
 
 But keep in mind that Readers will rarely refer to endnotes. As such, try to tailor endnotes to contain only citations. To convey helpful but nonessential information, consider placing them in in-text parentheticals or cutting them out entirely.
 
-## Style {#style}
+## Style <a id="style"></a>
 
 Since Digest is available online, some formatting preferences may be different, so this Digest citation guide supersedes the generic JOLT Style Guide. Below are some common items to check:
 
@@ -35,11 +35,11 @@ There are also some additional requirements specific to a _Digest_ Note:
 * Use only _italics_ for formatting emphasis \(not bold or underline\).
 * Do not use small-caps.
 
-## Commas {#commas}
+## Commas <a id="commas"></a>
 
 Use the serial comma. Read [here](../../reports/reportstylecitation/#commas) for more information.
 
-## Symbols {#symbols}
+## Symbols <a id="symbols"></a>
 
 Outside of citations, do not use "§" and "¶." Instead, always spell out and capitalize "Section" and "Paragraphs" in place of symbols.
 

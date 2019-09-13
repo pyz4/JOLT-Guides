@@ -4,11 +4,11 @@
 
 Authors should review the Style and Citation Guide before they begin drafting their Comment.
 
-## Requirements {#requirements}
+## Requirements <a id="requirements"></a>
 
 All Comments should hyperlink to the original source material, preferably a PDF \(e.g., court opinion or filing, legislation. Points should generally be well supported and should link to related content whenever possible.
 
-## Style {#style}
+## Style <a id="style"></a>
 
 As an online program, Digest Comments have unique formatting requirements distinct from other legal journal writings. Below are some common items to check:
 
@@ -19,21 +19,21 @@ As an online program, Digest Comments have unique formatting requirements distin
 * Do not hyphenate the following words: decisionmaker, factfinder
 * Italicize or bold for emphasis, as underlines look like a broken link.
 
-## Commas {#commas}
+## Commas <a id="commas"></a>
 
 When listing three or more things, separate each pair with a comma, including the last pair. The last comma precedes the coordinating conjunction \(e.g. _and_ or _or_\).
 
 > **Example:** Lions, tigers, and bears.
 
-## Symbols {#symbols}
+## Symbols <a id="symbols"></a>
 
 Outside of citations, do not use "§" and "¶." Instead, always spell out and capitalize "Section" and "Paragraphs" in place of symbols.
 
-## Quotations {#quotations}
+## Quotations <a id="quotations"></a>
 
 **Avoid block quotations to the extent possible.** You should be linking to sources, so there’s no need to quote in length. The exception to this rule, though, is the situation when you are analyzing statutory language; in that case, having the statute conveniently displayed in the body of the article is encouraged.
 
-## Citations {#citations}
+## Citations <a id="citations"></a>
 
 _Digest_ Comments need not follow Bluebook citation format. Indeed, you should cite sources primarily through hyperlink. Please archive your links to prevent linking to sources that later become unavailable. The Editing Team can also help out with this during the editing process. Please use \(recommended\) or  to archive your links.
 

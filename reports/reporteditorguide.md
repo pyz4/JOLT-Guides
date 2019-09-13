@@ -15,23 +15,23 @@ Subject Matter Coordinators \(SMCs\) are constantly looking for “hot” law & 
 * [Step 4](reporteditorguide.md#step5): Moving the Report Forward
 {% endhint %}
 
-## Step 1: Getting Started {#step1}
+## Step 1: Getting Started <a id="step1"></a>
 
-You, the _Digest_ Report Editor, is tasked with reviewing the Contributor's draft for substantive and technical accuracy. You will usually have about three days after the Contributor has shared the first draft to give comments and suggestions. You'll be working with the Contributor in finalizing the draft before the Contributor hands it off to the SMC and Digest Submissions Editor \(Wendy Chu\) for a final review and publication.
+You, the _Digest_ Report Editor, is tasked with reviewing the Contributor's draft for substantive and technical accuracy. You will usually have about two days after the Contributor has shared the first draft to give comments and suggestions. You'll be working with the Contributor in finalizing the draft before the Contributor hands it off to the SMC and Digest Submissions Editor \(Wendy Chu\) for a final review and publication.
 
 In the event you are unable to complete an assignment, please notify the assigning Coordinator immediately. If your availability changes during the year, notify the [Digest Executive Editor](https://jolt.law.harvard.edu/masthead).
 
-## Step 2: Receiving and Confirming Receipt of Your Assignment {#step2}
+## Step 2: Receiving and Confirming Receipt of Your Assignment <a id="step2"></a>
 
 Please see [Step 2 in the Contributor's Guide](reportcontributorguide.md#step-2-receiving-and-confirming-receipt-of-your-assignment).
 
-## Step 3: Editing {#step4}
+## Step 3: Editing <a id="step4"></a>
 
 As an Report Editor, you will work with the Contributor to ensure the report is publication-ready. You should make sure that the Contributor's piece follows the [Style & Citations Guide](reportstylecitation/) and comply with the recommendations laid out in [Step 3 of the Contributor's Guide](reportcontributorguide.md#step3). 
 
 Enter your edits directly into the Google Docs in ["Suggest Edits" mode](https://support.google.com/docs/answer/6033474?co=GENIE.Platform%3DDesktop&hl=en).
 
-## Step 4: Moving the Report Forward {#step5}
+## Step 4: Moving the Report Forward <a id="step5"></a>
 
 The Contributor will have shared in the assigning email thread the link to the Google Doc containing the draft \(see [Step 4 of the Contributor's Guide](reportcontributorguide.md#step4) for more details\). Make your comments and suggestions directly within the Google Doc. Once you're done with your comments and suggestions, reply all in the assigning email threads letting everyone know \(1\) a summary of your edits; and \(2\) any questions/concerns that arose during editing.
 
