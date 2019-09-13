@@ -20,7 +20,7 @@ Unless otherwise noted, all of the following communications are designed to \(an
 
 ## Step 1: Getting Started <a id="step1"></a>
 
-You, the Digest Contributor, will be assigned reports according to the availability and subject matter preferences you submitted in the sign-up survey. SMCs will simultaneously assign Report Editors and Contributors to a topic. 
+You, the Digest Contributor, will be assigned reports according to the availability and subject matter preferences you submitted in the sign-up survey. SMCs will simultaneously assign Report Editors and Contributors to a topic.
 
 Here's what the editing timeline will look like \(unless otherwise stated\):
 
@@ -106,11 +106,11 @@ After receiving your assignment from the Subject Matter Coordinator \(SMC\), imm
 If you simply cannot write the report within the required time, please let the SMC know as soon as possible so the SMC can find another Contributor. Note that you may not have the opportunity to write a Digest report at a later time.
 
 {% hint style="warning" %}
-**Want to choose a different topic?** 
+**Want to choose a different topic?**
 
-**Please let your SMC know within 24 hours of receiving your assignment.** A Report topic should be timely and related to law and technology. 
+**Please let your SMC know within 24 hours of receiving your assignment.** A Report topic should be timely and related to law and technology.
 
-Please include a link to the primary source and at least two links to other commentary on the topic in your email to your SMC. The SMC reserves the right to reject unsuitable topics. 
+Please include a link to the primary source and at least two links to other commentary on the topic in your email to your SMC. The SMC reserves the right to reject unsuitable topics.
 {% endhint %}
 
 ## Step 3: Drafting the Report <a id="step3"></a>
@@ -222,7 +222,7 @@ Please share your draft on Google Doc with the following:
 * Assigning Subject Matter Coordinator
 * Digest Account \(joltdigest@mail.law.harvard.edu\)
 
-The easiest way to do this is to share a link in the assigning email thread. The Editor will have about three days to add comments and suggestions in the Google Doc. Please review them, finalize the draft, and notify the assigning SMC \(via the email thread\). The SMC will take one last look and may offer an additional round of comments to be reviewed. You and the Editor will be asked to look over the Report one last time before it is published. 
+The easiest way to do this is to share a link in the assigning email thread. The Editor will have about three days to add comments and suggestions in the Google Doc. Please review them, finalize the draft, and notify the assigning SMC \(via the email thread\). The SMC will take another look and may offer an additional round of edits. You and the Editor will be asked to review the Report one last time before it is published. 
 
 ## Step 5: Feedback 
 

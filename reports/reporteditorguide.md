@@ -17,7 +17,7 @@ Subject Matter Coordinators \(SMCs\) are constantly looking for “hot” law & 
 
 ## Step 1: Getting Started <a id="step1"></a>
 
-You, the _Digest_ Report Editor, is tasked with reviewing the Contributor's draft for substantive and technical accuracy. You will usually have about three days after the Contributor has shared the first draft to give comments and suggestions. You'll be working with the Contributor in finalizing the draft before the Contributor hands it off to the SMC and Digest Submissions Editor \(Wendy Chu\) for a final review and publication.
+You, the _Digest_ Report Editor, is tasked with reviewing the Contributor's draft for substantive and technical accuracy. You will usually have about two days after the Contributor has shared the first draft to give comments and suggestions. You'll be working with the Contributor in finalizing the draft before the Contributor hands it off to the SMC and Digest Submissions Editor \(Wendy Chu\) for a final review and publication.
 
 In the event you are unable to complete an assignment, please notify the assigning Coordinator immediately. If your availability changes during the year, notify the [Digest Executive Editor](https://jolt.law.harvard.edu/masthead).
 
