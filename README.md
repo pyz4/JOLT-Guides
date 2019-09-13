@@ -1,26 +1,32 @@
-# FAQ
+# About Us
 
-## What is JOLT _Digest_?
+## What is JOLT Digest?
 
-The [_JOLT Digest_](http://jolt.law.harvard.edu/digest) is the online companion to the Harvard Journal of Law & Technology \([JOLT](http://jolt.law.harvard.edu/)\). It is intended to serve as a one-stop source of legal news to professors, practitioners, law students, and the general public on issues at the intersection of law and technology.
+[JOLT Digest](http://jolt.law.harvard.edu/digest) is the online companion to the Harvard Journal of Law & Technology \([JOLT](http://jolt.law.harvard.edu/)\). It is intended to serve as a one-stop source of legal news to professors, practitioners, law students, and the general public on issues at the intersection of law and technology.
 
-The Digest features short articles on new, precedential, or interesting cases; new legislation; administrative developments of note; and other interesting happenings. By applying JOLT’s traditionally high editing standards to the Digest, we create a uniquely useful and trustworthy resource.
+Digest features short articles on new, precedential, or interesting cases; new legislation; administrative developments of note; and other interesting happenings. By applying JOLT’s traditionally high editing standards to the Digest, we create a uniquely useful and trustworthy resource.
 
-## Do you conform with the Oxford Comma?
+## Meet the team!
 
-Yes. Read more [here](reports/reportstylecitation.md#commas).
+**Digest Executive Editor** \(Mindy Nam\) supervises the entire Digest team, creates the Digest publication schedule, and provides an additional layer of editing for all publications.
 
-## Meet the editing team!
+**Digest Reports Editor** \(Alicia Loh\) oversees all Digest Reports: assisting the SMCs to generate topics and schedule assignments, coordinating the assignment process, and providing a final layer of editing.
 
-**Contributors** write the Report articles for _JOLT Digest_ and also suggest sources of online commentary that can be linked from Digest articles.
+**Subject Matter Coordinators \(SMCs\)** \(Sam Santopaolo, Justin Fishman, and Andrew Distell\) assign topics to and work closely with Contributors and Report Editors on their subject matter teams to publish Digest Reports. 
 
-**Report Editors** supervise the Contributors. Report Editors are responsible for editing article drafts and adding additional relevant materials.
+**Report Contributors** and **Editors** work together to publish Digest Reports that provide overviews on important new developments in law and technology. 
 
-**Subject Matter Coordinators** \(Mindy Nam and Stella Mao\) assign topics to Contributors and Report Editors on their subject matter teams. Assignments include the topic and links to sources that help Contributors to understand the issue and links to relevant online commentary.
+**Digest Content Editors** \(Or-el Vaknin and Anita Liu\) take the lead on seeing Digest Student Notes and Comments from submission to publication. This involves back-and-forth on substantive edits with the authors to make sure their pieces meet Digest standards.
 
-**Digest Content Editors** \(Brian Kulp and Phillip Takhar\) take the lead on seeing Digest Student Notes and Comments from submission to publication. This involves back-and-forth on substantive edits with the authors to make sure their pieces meet Digest standards.
+**Digest Development Manager** \(Alexandra Mushka\) reaches out to professors, practitioners, and non-HLS law students to grow the JOLT Digest community. 
 
-**Digest Submissions Editor** \(Wendy Chu\) oversees and assists the Coordinators to generate topics and schedule assignments, coordinates the assignment process, provides a final layer of editing for entries, upload posts into WordPress, and ensure that the entries remain up-to-date as new developments occur.
+**Federal Circuit Panel Writers** \(Hye Yoon Hwang, Meera Midha, Kaye Horstman, and Will Czaplyski\) write Notes on current issues in the Federal Circuit. 
 
-**Digest Executive Editor** \(Peter Zhu\) supervises the Digest Content Editor and other Digest team members, creates the Digest publication schedule, and provides an additional layer of editing for entries.
+**Podcast Content Team** \(Flora Wang, Minnie Che, Nick Berk, and Oladeji Tiamiyu\) leads the creation of podcast episodes and researches the subject material. 
+
+**Podcast Production Team** \(Nick Curry and Bowen Wang\) record and edit each episode. 
+
+\*\*\*\*
+
+\*\*\*\*
 

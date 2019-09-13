@@ -1,6 +1,7 @@
 # Table of contents
 
-* [FAQ](README.md)
+* [About Us](README.md)
+* [FAQ](about-us.md)
 
 ## Reports
 

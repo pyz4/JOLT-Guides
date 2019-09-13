@@ -2,9 +2,9 @@
 
 ## Welcome to the Report Contributor's Guide!
 
-This guide will provide an overview of your responsibilities as a **Contributor** of a _**Digest**_ **Report**. Reports are short objective overviews, 500-700 words in length, of recent court opinions or pieces of legislation. They also provide links to primary sources and additional commentary for readers who want to dig deeper.
+This guide will provide an overview of your responsibilities as a **Contributor** of a **Digest Report**. Reports are short objective overviews, 500-700 words in length, of recent court opinions or pieces of legislation. They also provide links to primary sources and additional commentary for readers who want to dig deeper.
 
-Subject Matter Coordinators \(SMCs\) are constantly looking for cutting edge developments in law & technology. They will assign the topic to you and an Report Editor. Your job is to write the substantive content of the report while the Report Editor will help you ensure it is publication-ready.
+Subject Matter Coordinators \(SMCs\) are constantly looking for cutting edge developments in law & technology. They will assign the topic to you and a Report Editor. Your job is to write the substantive content of the report while the Report Editor will help you ensure it is publication-ready.
 
 {% hint style="info" %}
 ### Writing Process in a Nutshell
@@ -12,16 +12,23 @@ Subject Matter Coordinators \(SMCs\) are constantly looking for cutting edge dev
 * [Step 1](reportcontributorguide.md#step1): Getting Started
 * [Step 2](reportcontributorguide.md#step2): Receiving and Confirming Receipt of Your Assignment
 * [Step 3](reportcontributorguide.md#step3): Drafting the Report
-* [Step 4](reportcontributorguide.md#step4): Forwarding the Report & Following Up
+* [Step 4](reportcontributorguide.md#step4): Edits to the Report
+* [Step 5](https://jolt.gitbook.io/jolt-digest-citation-and-style-guide/reports/reportcontributorguide#step5): Feedback
 {% endhint %}
 
 Unless otherwise noted, all of the following communications are designed to \(and should\) occur via email.
 
 ## Step 1: Getting Started <a id="step1"></a>
 
-You, the _Digest_ Contributor, will be assigned reports according to the availability and subject matter preferences you submitted in the sign-up survey. SMCs will simultaneously assign Report Editors and Contributors to a topic. Unless your Coordinator specified otherwise, you will have **four days** to finish a draft.
+You, the Digest Contributor, will be assigned reports according to the availability and subject matter preferences you submitted in the sign-up survey. SMCs will simultaneously assign Report Editors and Contributors to a topic. 
 
-If you are unable to complete an assignment, please notify the assigning SMC immediately. If your availability changes during the year, notify the Digest Executive Editor.
+Here's what the editing timeline will look like \(unless otherwise stated\):
+
+* **Sunday Night**: ****SMC will send the assigning email
+* **Thursday by 11:59pm**: ****Contributor finishes draft report
+* **Saturday by noon**: ****Editor submits all edits 
+* **Sunday by noon**: Contributor finalizes changes 
+* **Monday**: SMC and Digest Reports Editor makes final edits, and Report is published 
 
 ## Step 2: Receiving and Confirming Receipt of Your Assignment
 
@@ -30,15 +37,16 @@ If you are unable to complete an assignment, please notify the assigning SMC imm
 The SMC will send you and the Report Editor an assigning email with: 
 
 1. Name of your Contributor and Editor
-2. Draft due date
+2. Draft due date and editing timeline
 3. Report topic
    1. Background \(parties, procedural posture, etc.\)
    2. Significance of the case/legislation
    3. Link or attachment to primary source
-4. Link to [Contributor](reportcontributorguide.md#welcome-to-the-report-contributors-guide), [Editor](reporteditorguide.md#welcome-to-the-report-editors-guide), and [Style & Citation Guide](reportstylecitation.md)
+   4. What to do if you want to choose a different topic
+4. Link to [Contributor](reportcontributorguide.md#welcome-to-the-report-contributors-guide), [Editor](reporteditorguide.md#welcome-to-the-report-editors-guide), and [Style & Citation Guides](reportstylecitation.md)
 5. Credentials for online Bluebook access
 
-If the email is missing any information OR you have questions: immediately contact your Subject Matter Coordinator. If the Coordinator does not respond, feel free to contact the Digest Executive Editor, who are also available to answer questions.
+If the email is missing any information OR you have questions: immediately contact your Subject Matter Coordinator. If the Coordinator does not respond, feel free to contact the Digest Reports Editor, who is also available to answer questions.
 {% endtab %}
 
 {% tab title="Sample Email" %}
@@ -52,9 +60,9 @@ Please reply all to this email and confirm that you are able to take on this wee
 
 **Assignment:** summarize Aatrix Software, Inc. v. Green Shades Software, Inc., No. 2017-1452, 2018 WL 843288 \(Fed. Cir. Feb. 14, 2018\) along with links to at least two outside sources. You can find examples of posts at [https://jolt.law.harvard.edu/digest/category/?cat=patent](https://jolt.law.harvard.edu/digest/category/?cat=patent).
 
-**Draft Deadline** \(Contributor send draft to me and Editor\): 11:59 p.m. Wed, Feb 21.
+**Draft Deadline** \(Contributor send draft to me and Editor\): 11:59 pm on Thursday, Feb 21.
 
-**Edits Deadline** \(Editor send marked up draft to me and Contributor\): 11:59 p.m. Sat, Feb 24.
+**Edits Deadline** \(Editor send marked up draft to me and Contributor\): noon on Sat, Feb 24.
 
 Thanks for writing for Digest this semester! According to the Fall 2017 Report Schedule, &lt;**Contributor**&gt;, you have been assigned the role of Digest Contributor for this week. **&lt;Editor&gt;**, you are assigned the role or Report Editor. 
 
@@ -97,9 +105,17 @@ After receiving your assignment from the Subject Matter Coordinator \(SMC\), imm
 
 If you simply cannot write the report within the required time, please let the SMC know as soon as possible so the SMC can find another Contributor. Note that you may not have the opportunity to write a Digest report at a later time.
 
+{% hint style="warning" %}
+**Want to choose a different topic?** 
+
+**Please let your SMC know within 24 hours of receiving your assignment.** A Report topic should be timely and related to law and technology. 
+
+Please include a link to the primary source and at least two links to other commentary on the topic in your email to your SMC. The SMC reserves the right to reject unsuitable topics. 
+{% endhint %}
+
 ## Step 3: Drafting the Report <a id="step3"></a>
 
-The purpose of _Digest_ reports is to provide a relatively brief and ideologically-neutral overview of their subject.
+The purpose of Digest Reports is to provide a relatively brief and ideologically-neutral overview of their subject.
 
 {% hint style="success" %}
 #### Your Responsibilities
@@ -117,9 +133,9 @@ As a Contributor, you are responsible for the technical and substantive accuracy
 2. How to format citations
 3. Style guidelines
 
-**Please be very careful** not to overstate or misrepresent the source. Digest Reports are often on the first page of Google inquiries for cutting-edge cases -- getting it wrong has consequences. If you are unsure how to summarize a particular point, please ask for help. If all else fails, consider paraphrasing or quoting the source.
+**Please be very careful** not to overstate or misrepresent the source. Digest Reports are often on the first page of Google inquiries for cutting-edge cases — getting it wrong has consequences. If you are unsure how to summarize a particular point, please ask for help. If all else fails, consider paraphrasing or quoting the source.
 
-Visit [_Digest_](https://jolt.law.harvard.edu/digest/category/?cat=reports) for examples of edited reports. [Here](http://jolt.law.harvard.edu/digest/federal-circuit-flash-digest-basf-corp-v-johnson-matthey-inc) are [several](http://jolt.law.harvard.edu/digest/teva-v-eli-lilly-teva-argues-lilly-is-infringing-migraine-drug-patent-in-the-united-states) [examples](http://jolt.law.harvard.edu/digest/ubers-august-settlement-with-the-ftc-and-new-data-insecurity-revelations).
+Visit [Digest](https://jolt.law.harvard.edu/digest/category/?cat=reports) for examples of edited reports. [Here](http://jolt.law.harvard.edu/digest/federal-circuit-flash-digest-basf-corp-v-johnson-matthey-inc) are [several](http://jolt.law.harvard.edu/digest/teva-v-eli-lilly-teva-argues-lilly-is-infringing-migraine-drug-patent-in-the-united-states) [examples](http://jolt.law.harvard.edu/digest/ubers-august-settlement-with-the-ftc-and-new-data-insecurity-revelations).
 
 **Length** - while the report’s length will vary with the complexity of the subject, generally the report should be no longer than 500–700 words. The purpose of the report is to provide an accurate overview of the most important aspects of the subject. Readers interested in further detail can visit the primary and secondary sources that will be included.
 
@@ -189,7 +205,7 @@ See [example](https://jolt.law.harvard.edu/digest/coalition-of-32-state-ags-outl
 {% endtab %}
 {% endtabs %}
 
-## Step 4: Forwarding the Report <a id="step4"></a>
+## Step 4: Edits to the Report <a id="step4"></a>
 
 {% hint style="success" %}
 #### Your Responsibilities
@@ -197,20 +213,33 @@ See [example](https://jolt.law.harvard.edu/digest/coalition-of-32-state-ags-outl
 1. Comment sections of your Report that you believe need a closer review
 2. Share your draft on Google Doc
 3. Work with the Editor to finalize the piece
-4. Be available for any follow-up edits from the Subject Matter Coordinator
+4. Be available for any follow-up edits from the Subject Matter Coordinator 
 {% endhint %}
 
 Please share your draft on Google Doc with the following:
 
 * Report Editor
 * Assigning Subject Matter Coordinator
-* Digest Executive Editor \(joltdigest@mail.law.harvard.edu\)
+* Digest Account \(joltdigest@mail.law.harvard.edu\)
 
-The easiest way to do this is to share a link in the assigning email thread. The Editor will have about three days to add comments and suggestions in the Google Doc. Please review them, finalize the draft, and notify the assigning SMC \(via the email thread\). The SMC will take one last look and may offer an additional round of comments to be reviewed before sending it to production.
+The easiest way to do this is to share a link in the assigning email thread. The Editor will have about three days to add comments and suggestions in the Google Doc. Please review them, finalize the draft, and notify the assigning SMC \(via the email thread\). The SMC will take one last look and may offer an additional round of comments to be reviewed. You and the Editor will be asked to look over the Report one last time before it is published. 
 
-Expect a follow-up email from the SMC once your piece goes live.
+## Step 5: Feedback 
+
+{% hint style="warning" %}
+**You must fill out the feedback form to receive substantive feedback on your writing.** 
+{% endhint %}
+
+After the Report is published online, you will get an email from the Digest Reports Editor with a link and a feedback form. We ask for your feedback on: 
+
+1. Your experience writing the Report \(to help us improve the process\)
+2. Your experience working with the SMC and Editor \(to help us make promotion decisions\)
+
+We also provide the opportunity to give **anonymous** feedback to your Editor. The Digest Reports Editor will combine their feedback with your feedback and the SMC's. The feedback you receive will be similarly anonymized. 
 
 ## Thank you!
 
-The _JOLT Digest_ team thanks you for the time you will be putting into creating Digest content. We hope you enjoy the content creation process and working with the subject matter of your assignments. Please feel free to email the [_Digest Masthead_](https://jolt.law.harvard.edu/masthead) if you have any concerns or suggestions on improving the process!
+The JOLT Digest team thanks you for the time you will be putting into creating Digest content. We hope you enjoy the content creation process and working with the subject matter of your assignments. 
+
+Follow the JOLT [Twitter](https://www.twitter.com/harvardjolt) or [Facebook Page](https://www.facebook.com/harvardjolt) to stay up to date on all Digest publications! 
 
