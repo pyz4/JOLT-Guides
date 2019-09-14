@@ -25,7 +25,7 @@ You, the Digest Contributor, will be assigned reports according to the availabil
 Here's what the editing timeline will look like \(unless otherwise stated\):
 
 * **Sunday Night**: ****SMC will send the assigning email
-* **Thursday by 11:59pm**: ****Contributor finishes draft report
+* **Thursday by noon**: ****Contributor finishes draft report
 * **Saturday by noon**: ****Editor submits all edits 
 * **Sunday by noon**: Contributor finalizes changes 
 * **Monday**: SMC and Digest Reports Editor makes final edits, and Report is published 

@@ -23,7 +23,7 @@ You, the Report Editor, are tasked with reviewing the Contributor's draft for su
 Here's what the editing timeline will look like \(unless otherwise stated\):
 
 * **Sunday Night**: ****SMC will send the assigning email
-* **Thursday by 11:59pm**: ****Contributor finishes draft report
+* **Thursday by noon**: ****Contributor finishes draft report
 * **Saturday by noon**: ****Editor submits all edits 
 * **Sunday by noon**: Contributor finalizes changes 
 * **Monday**: SMC and Digest Reports Editor makes final edits, and Report is published 
