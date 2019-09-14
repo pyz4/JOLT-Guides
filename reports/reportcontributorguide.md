@@ -2,7 +2,7 @@
 
 ## Welcome to the Report Contributor's Guide!
 
-This guide will provide an overview of your responsibilities as a **Contributor** of a **Digest Report**. Reports are short objective overviews, 500-700 words in length, of recent court opinions or pieces of legislation. They also provide links to primary sources and additional commentary for readers who want to dig deeper.
+This guide will provide an overview of your responsibilities as a **Contributor** of a **Digest Report**. Reports are short objective overviews, 500–700 words in length, of recent court opinions or pieces of legislation. They also provide links to primary sources and additional commentary for readers who want to dig deeper.
 
 Subject Matter Coordinators \(SMCs\) are constantly looking for cutting edge developments in law & technology. They will assign the topic to you and a Report Editor. Your job is to write the substantive content of the report while the Report Editor will help you ensure it is publication-ready.
 
@@ -127,7 +127,7 @@ The purpose of Digest Reports is to provide a relatively brief and ideologically
 
 {% tabs %}
 {% tab title="Instructions" %}
-As a Contributor, you are responsible for the technical and substantive accuracy of the report. Refer to the [Citation, Style, and Substance Guide](reportstylecitation.md) for:
+As a Contributor, you are responsible for the technical and substantive accuracy of the report. Refer to the [Style & Citations Guide](reportstylecitation.md) for:
 
 1. What to look for in a case or legislation
 2. How to format citations
