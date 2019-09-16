@@ -28,7 +28,7 @@ Here's what the editing timeline will look like \(unless otherwise stated\):
 * **Thursday by noon**: ****Contributor finishes draft report
 * **Saturday by noon**: ****Editor submits all edits 
 * **Sunday by noon**: Contributor finalizes changes 
-* **Monday**: SMC and Digest Reports Editor makes final edits, and Report is published 
+* **Monday**: SMC and Digest Engagement Editor makes final edits, and Report is published 
 
 ## Step 2: Receiving and Confirming Receipt of Your Assignment
 
@@ -46,7 +46,7 @@ The SMC will send you and the Report Editor an assigning email with:
 4. Link to [Contributor](reportcontributorguide.md#welcome-to-the-report-contributors-guide), [Editor](reporteditorguide.md#welcome-to-the-report-editors-guide), and [Style & Citation Guides](reportstylecitation.md)
 5. Credentials for online Bluebook access
 
-If the email is missing any information OR you have questions: immediately contact your Subject Matter Coordinator. If the Coordinator does not respond, feel free to contact the Digest Reports Editor, who is also available to answer questions.
+If the email is missing any information OR you have questions: immediately contact your Subject Matter Coordinator. If the Coordinator does not respond, feel free to contact the Digest Engagement Editor, who is also available to answer questions.
 {% endtab %}
 
 {% tab title="Sample Email" %}
@@ -230,12 +230,12 @@ The easiest way to do this is to share a link in the assigning email thread. The
 **You must fill out the feedback form to receive substantive feedback on your writing.** 
 {% endhint %}
 
-After the Report is published online, you will get an email from the Digest Reports Editor with a link and a feedback form. We ask for your feedback on: 
+After the Report is published online, you will get an email from the Digest Engagement Editor with a link and a feedback form. We ask for your feedback on: 
 
 1. Your experience writing the Report \(to help us improve the process\)
 2. Your experience working with the SMC and Editor \(to help us make promotion decisions\)
 
-We also provide the opportunity to give **anonymous** feedback to your Editor. The Digest Reports Editor will combine their feedback with your feedback and the SMC's. The feedback you receive will be similarly anonymized. 
+We also provide the opportunity to give **anonymous** feedback to your Editor. The Digest Engagement Editor will combine their feedback with your feedback and the SMC's. The feedback you receive will be similarly anonymized. 
 
 ## Thank you!
 

@@ -18,7 +18,7 @@ Subject Matter Coordinators \(SMCs\) are constantly looking for “hot” law & 
 
 ## Step 1: Getting Started <a id="step1"></a>
 
-You, the Report Editor, are tasked with reviewing the Contributor's draft for substantive and technical accuracy. You will usually have about two days after the Contributor has shared the first draft to give comments and suggestions. You'll be working with the Contributor in finalizing the draft before handing it off to the SMC and Digest Reports Editor \(Alicia Loh\) for a final review and publication.
+You, the Report Editor, are tasked with reviewing the Contributor's draft for substantive and technical accuracy. You will usually have about two days after the Contributor has shared the first draft to give comments and suggestions. You'll be working with the Contributor in finalizing the draft before handing it off to the SMC and Digest Engagement Editor \(Alicia Loh\) for a final review and publication.
 
 Here's what the editing timeline will look like \(unless otherwise stated\):
 
@@ -26,7 +26,7 @@ Here's what the editing timeline will look like \(unless otherwise stated\):
 * **Thursday by noon**: ****Contributor finishes draft report
 * **Saturday by noon**: ****Editor submits all edits 
 * **Sunday by noon**: Contributor finalizes changes 
-* **Monday**: SMC and Digest Reports Editor makes final edits, and Report is published 
+* **Monday**: SMC and Digest Engagement Editor makes final edits, and Report is published 
 
 ## Step 2: Receiving and Confirming Receipt of Your Assignment <a id="step2"></a>
 
@@ -44,7 +44,7 @@ The SMC will send you and the Contributor an assigning email with:
 4. Link to [Contributor](reportcontributorguide.md#welcome-to-the-report-contributors-guide), [Editor](reporteditorguide.md#welcome-to-the-report-editors-guide), and [Style & Citation Guides](reportstylecitation.md)
 5. Credentials for online Bluebook access
 
-If the email is missing any information OR you have questions: immediately contact your Subject Matter Coordinator. If the Coordinator does not respond, feel free to contact the Digest Reports Editor, who is also available to answer questions.
+If the email is missing any information OR you have questions: immediately contact your Subject Matter Coordinator. If the Coordinator does not respond, feel free to contact the Digest Engagement Editor, who is also available to answer questions.
 {% endtab %}
 
 {% tab title="Sample Email" %}
@@ -128,14 +128,16 @@ Then Contributor then has at least 24 hours to implement your suggestions. This 
 **You must fill out the feedback form to receive feedback.** 
 {% endhint %}
 
-After the Report is published online, you will get an email from the Digest Reports Editor with a link and a feedback form. We ask for your feedback on: 
+After the Report is published online, you will get an email from the Digest Engagement Editor with a link and a feedback form. We ask for your feedback on: 
 
 1. Your experience editing the Report \(to help us improve the process\)
 2. Your experience working with the SMC and Contributor \(to help us make promotion decisions\)
 
-We also provide the opportunity to give **anonymous** feedback to your Contributor. The Digest Reports Editor will combine their feedback with your feedback and the SMC's. The feedback you receive will be similarly anonymized. 
+We also provide the opportunity to give **anonymous** feedback to your Contributor. The Digest Engagement Editor will combine their feedback with your feedback and the SMC's. The feedback you receive will be similarly anonymized. 
 
 ## Thank you!
 
-The JOLT Digest team thanks you for your time and energy. Please feel free to email the [_Digest Masthead_](https://jolt.law.harvard.edu/masthead) if you have any concerns or suggestions on improving the process!
+The JOLT Digest team thanks you for the time you will be putting into creating Digest content. We hope you enjoy the content creation process and working with the subject matter of your assignments. 
+
+Follow the JOLT [Twitter](https://www.twitter.com/harvardjolt) or [Facebook Page](https://www.facebook.com/harvardjolt) to stay up to date on all Digest publications! 
 

@@ -2,13 +2,18 @@
 
 ## Welcome to the Note Contributor's Guide!
 
-A _Digest_ Note proffers a **novel analysis** on an issue related to law and technology. It contributes something new and interesting to the field. While a Note may include economic, cultural, or other types of arguments, it must revolve around the law.
+A Digest Note proffers a **novel analysis** on an issue related to law and technology. It contributes something new and interesting to the field. While a Note may include economic, cultural, or other types of arguments, it must revolve around the law.
 
 You should make sure that your Note idea is not preempted; do some background research and work with your Note Editor on refining the idea.
 
-**Your Tasks** 1. Come up with a **novel analysis** related to law and technology. 2. Provide an outline. 3. Write a 1500-2000 word analysis piece on the topic.
+{% hint style="success" %}
+**Your Tasks**
 
-1. Respond to suggestions from the [Note Editor](noteeditorguide.md).
+1. Come up with a **novel analysis** related to law and technology. 
+2. Provide an outline. 
+3. Write a 1500-2000 word analysis piece on the topic.
+4. Respond to suggestions from the [Note Editor](noteeditorguide.md).
+{% endhint %}
 
 ## Requirements <a id="requirements"></a>
 
@@ -28,13 +33,13 @@ Possible topics include
 
 ### Length
 
-Your Note should be within 1500-2000 words. You may go over 2000 words but only if both you and your Note Editor agree that your thesis requries the extra space. Every Note will have an objective portion, that sets up the context of your piece, and a subjective portion, that lays out your argument. There is no required distribution of words between the two portions -- the only requirement is that there is a subjective portion.
+Your Note should be within 1500-2000 words. You may go over 2000 words, but only if both you and your Note Editor agree that your thesis requries the extra space. Every Note will have an objective portion, that sets up the context of your piece, and a subjective portion, that lays out your argument. There is no required distribution of words between the two portions — the only requirement is that there is a subjective portion.
 
 Citations will not count towards the word limit.
 
 ### Citations
 
-Notes are more formal pieces than [_Digest_ Reports](../reports/reportcontributorguide.md). And so, you will need to provide pincites for every statement you attribute to someone else. **Follow the Bluebook whitepages subject to the rules laid out in the** [**Notes Style and Citation Guide**](notestylecitation/)**.** When submitting drafts, provide citations in endnotes rather than footnotes.
+Notes are more formal pieces than [Digest Reports](../reports/reportcontributorguide.md). And so, you will need to provide pincites for every statement you attribute to someone else. **Follow the Bluebook whitepages subject to the rules laid out in the** [**Notes Style and Citation Guide**](notestylecitation/)**.** When submitting drafts, provide citations in endnotes rather than footnotes.
 
 ## Logistics
 

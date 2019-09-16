@@ -10,7 +10,7 @@ Digest features short articles on new, precedential, or interesting cases; new l
 
 **Digest Executive Editor** \(Mindy Nam\) supervises the entire Digest team, creates the Digest publication schedule, and provides an additional layer of editing for all publications.
 
-**Digest Reports Editor** \(Alicia Loh\) oversees all Digest Reports: assisting the SMCs to generate topics and schedule assignments, coordinating the assignment process, and providing a final layer of editing.
+**Digest Engagement Editor** \(Alicia Loh\) oversees all Digest Reports: assisting the SMCs to generate topics and schedule assignments, coordinating the assignment process, and providing a final layer of editing.
 
 **Subject Matter Coordinators \(SMCs\)** \(Sam Santopaolo, Justin Fishman, and Andrew Distell\) assign topics to and work closely with Contributors and Report Editors on their subject matter teams to publish Digest Reports. 
 
