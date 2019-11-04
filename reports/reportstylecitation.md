@@ -29,6 +29,12 @@ When listing three or more things, separate each pair with a comma, including th
 
 > **Example:** Lions, tigers, and bears.
 
+## Capitalization
+
+Only capitalize "court" when referencing the US Supreme Court or the full name of the court. 
+
+> **Example:** "The District Court for the Northern District of California ****held..." or "The court held..."
+
 ## Symbols <a id="symbols"></a>
 
 Outside of citations, do not use "§" and "¶." Instead, spell out and capitalize "Section" and "Paragraphs" in place of symbols.
@@ -46,7 +52,7 @@ Despite the Digest’s more informal style, we strive to maintain the high stand
 Documents that are the focus of an article, such as a slip opinion, statute, letter, etc., should be properly Bluebooked and located at the beginning of the article. Pincites need not be included throughout the article.
 
 > **DOJ v. BMI: DOJ Argues BMI’s Fractional Licensing Practice Violates Consent Decree**  
-> By \[author\] -- Edited by \[editor\]  
+> By \[author\] - Edited by \[editor\]  
 > Brief of Appellant, United States v. Broadcast Music, Inc., No. 16-3830-cv \(2d. Cir. May 18, 2017\), [brief](http://www.djcounsel.com/wp-content/uploads/2017/05/2017-DOJ-Brief-BMI-Full-Work-Licensing.pdf) hosted by DJ Counsel.
 >
 > ... body ...

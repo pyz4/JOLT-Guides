@@ -8,7 +8,7 @@ Digest features short articles on new, precedential, or interesting cases; new l
 
 ## Meet the team!
 
-**Digest Executive Editor** \(Mindy Nam\) supervises the entire Digest team, creates the Digest publication schedule, and provides an additional layer of editing for all publications.
+**Digest Executive Editor** \(Mindy Nam\) supervises the entire Digest team, which is comprised of the Digest Reports program, the Federal Circuit Panel program, the Digest Notes and Comments, and the JOLT Digest Podcast. She also creates the Digest publication schedule, and provides an additional layer of editing for all publications.
 
 **Digest Engagement Editor** \(Alicia Loh\) oversees all Digest Reports: assisting the SMCs to generate topics and schedule assignments, coordinating the assignment process, and providing a final layer of editing.
 
@@ -18,13 +18,13 @@ Digest features short articles on new, precedential, or interesting cases; new l
 
 **Digest Content Editors** \(Or-el Vaknin and Anita Liu\) take the lead on seeing Digest Student Notes and Comments from submission to publication. This involves back-and-forth on substantive edits with the authors to make sure their pieces meet Digest standards.
 
-**Digest Development Manager** \(Alexandra Mushka\) reaches out to professors, practitioners, and non-HLS law students to grow the JOLT Digest community. 
+**Digest Development Manager** \(Alexandra Mushka\) reaches out to professors, practitioners, academic institutions, and non-HLS law students to grow the JOLT Digest community. 
 
 **Federal Circuit Panel Writers** \(Hye Yoon Hwang, Meera Midha, Kaye Horstman, and Will Czaplyski\) write Notes on current issues in the Federal Circuit. 
 
-**Podcast Content Team** \(Flora Wang, Minnie Che, Nick Berk, and Oladeji Tiamiyu\) leads the creation of podcast episodes and researches the subject material. 
+**Podcast Content Team** \(Flora Wang, Minnie Che, Nick Berk, and Coco Zhang\) leads the creation of podcast episodes and researches the subject material. 
 
-**Podcast Production Team** \(Nick Curry and Bowen Wang\) record and edit each episode. 
+**Podcast Production Team** \(Nick Curry and Bowen Wang\) manage recording logistics and finalize the production of each episode. 
 
 \*\*\*\*
 
