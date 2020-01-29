@@ -16,9 +16,7 @@ Digest features short articles on new, precedential, or interesting cases; new l
 
 **Report Contributors** and **Editors** work together to publish Digest Reports that provide overviews on important new developments in law and technology. 
 
-**Digest Content Editors** \(Or-el Vaknin and Anita Liu\) take the lead on seeing Digest Student Notes and Comments from submission to publication. This involves back-and-forth on substantive edits with the authors to make sure their pieces meet Digest standards.
-
-**Digest Development Manager** \(Alexandra Mushka\) reaches out to professors, practitioners, academic institutions, and non-HLS law students to grow the JOLT Digest community. 
+**Digest Content Editors** \(Or-el Vaknin and Anita Liu\) take the lead on seeing Digest Student Notes and Comments from submission to publication. This involves back-and-forth on substantive edits with the authors to make sure their pieces meet Digest standards. 
 
 **Federal Circuit Panel Writers** \(Hye Yoon Hwang, Meera Midha, Kaye Horstman, and Will Czaplyski\) write Notes on current issues in the Federal Circuit. 
 

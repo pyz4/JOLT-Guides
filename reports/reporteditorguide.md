@@ -26,7 +26,7 @@ Here's what the editing timeline will look like \(unless otherwise stated\):
 * **Thursday by noon**: ****Contributor finishes draft report
 * **Saturday by noon**: ****Editor submits all edits 
 * **Sunday by noon**: Contributor finalizes changes 
-* **Monday**: SMC and Digest Engagement Editor makes final edits, and Report is published 
+* **The following week**: SMC and Digest Engagement Editor makes final edits, and Report is published 
 
 ## Step 2: Receiving and Confirming Receipt of Your Assignment <a id="step2"></a>
 
@@ -105,7 +105,7 @@ As an Report Editor, you will work with the Contributor to ensure the report is 
 1. Read the primary source and links provided by the SMC to check for **substantive accuracy**
 2. Ensure the tone of the piece is **impartial** and any opinions are attributed to a source. [Step 3 of the Contributor's Guide](https://jolt.gitbook.io/jolt-digest-citation-and-style-guide/reports/reportcontributorguide#step3) may be helpful to understand how a piece should be structured.  
 3. Make sure that the Contributor's piece follows the [Style & Citations Guide](reportstylecitation.md) 
-4. Copyedit the piece for typos and grammatical errors
+4. Copy edit the piece for typos and grammatical errors
 {% endhint %}
 
 The Contributor will have shared in the assigning email thread the link to the Google Doc containing the draft \(see [Step 4 of the Contributor's Guide](reportcontributorguide.md#step4) for more details\). Enter your comments and edits directly into the Google Docs in ["Suggest Edits" mode](https://support.google.com/docs/answer/6033474?co=GENIE.Platform%3DDesktop&hl=en). 
@@ -118,7 +118,7 @@ The Contributor will have shared in the assigning email thread the link to the G
 Notify your Contributor when you are done with edits, and be available to look over any changes made. 
 {% endhint %}
 
-Once you're done with your comments and suggestions, reply all in the assigning email threads letting everyone know \(1\) a summary of your edits; and \(2\) any questions/concerns that arose during editing. 
+Once you're done with your comments and suggestions, reply all in the assigning email thread letting everyone know \(1\) a summary of your edits; and \(2\) any questions/concerns that arose during editing. 
 
 Then Contributor then has at least 24 hours to implement your suggestions. This time period is meant to allow a back and forth between you and the Contributor to refine your piece before the SMC reviews it. The SMC may offer an additional round of edits. You and the Editor will be asked to review the Report one last time before it is published. 
 

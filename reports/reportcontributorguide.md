@@ -28,7 +28,7 @@ Here's what the editing timeline will look like \(unless otherwise stated\):
 * **Thursday by noon**: ****Contributor finishes draft report
 * **Saturday by noon**: ****Editor submits all edits 
 * **Sunday by noon**: Contributor finalizes changes 
-* **Monday**: SMC and Digest Engagement Editor makes final edits, and Report is published 
+* **The following week**: SMC and Digest Engagement Editor makes final edits, and Report is published 
 
 ## Step 2: Receiving and Confirming Receipt of Your Assignment
 
@@ -122,7 +122,7 @@ The purpose of Digest Reports is to provide a relatively brief and ideologically
 
 1. Read the original source provided in the assignment email
 2. Draft an impartial summary of the assignment email
-3. Include in the summary **two** links to outside sources
+3. Include in the report at least **two** links to outside sources
 {% endhint %}
 
 {% tabs %}
@@ -159,6 +159,7 @@ Please ensure that each submission adheres to the general organizational format 
    1. Commentary: news articles, if accurate, & scholarly comment
    2. Related materials
 7. Optional: one line describing yourself and your interests which will be included at the end of your contributor post. e.g. "\[Contributor’s name\] is a \(1L, 2L, 3L\) at the Harvard Law School."
+8. **Social Media Tagline**: Your post will be tweeted out when published. Please write a tweet for us to use. Include hashtags as appropriate, and please remember Twitter has a 280 character limit. Examples can be found at the [JOLT Twitter](https://www.twitter.com/HarvardJOLT) account. Feel free to include your username for us to tag you with. 
 {% endtab %}
 
 {% tab title="Sample Case Report" %}
@@ -220,6 +221,7 @@ Please share your draft on Google Doc with the following:
 
 * Report Editor
 * Assigning Subject Matter Coordinator
+* Digest Engagement Editor \(aloh@jd20\)
 * Digest Account \(joltdigest@mail.law.harvard.edu\)
 
 The easiest way to do this is to share a link in the assigning email thread. The Editor will have about three days to add comments and suggestions in the Google Doc. Please review them, finalize the draft, and notify the assigning SMC \(via the email thread\). The SMC will take another look and may offer an additional round of edits. You and the Editor will be asked to review the Report one last time before it is published. 
