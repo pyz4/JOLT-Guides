@@ -124,10 +124,10 @@ Where case names are included in endnotes, follow case name abbreviations in Tab
 
 If a PDF of a court document is available through an open access online source \(i.e., not through Westlaw or Lexis Nexis\), hyperlink to the source from the document type or, if none, case name in the Bluebook citation. If the PDF is hosted by a non-court source, include “hosted by” language with the hyperlink on the document type \(not a Bluebook abbreviation\).
 
-> **Example:** [MGA Entertainment, Inc. v. Mattel, Inc.](http://www.sunsteinlaw.com/media/BratzTCC.pdf), No. 09-55673 \(9th Cir. July 22, 2010\), hosted by sunsteinlaw.com.  
-> **Example:** Viacom International Inc. v. YouTube, Inc., No. 07 Civ. 2103 \(S.D.N.Y. June 23, 2010\), [slip opinion](http://docfiles.justia.com/cases/federal/district-courts/new-york/nysdce/1:2007cv02103/302164/364/0.pdf), hosted by Justia.com.  
-> **Example:** Complaint for Declaratory Judgment and Injunctive Relief, GoldieBlox, Inc. v. Island Def Jam Music Group, A Div. of UMG Recordings, Inc., No. 3:13-cv-05428 \(N.D. Cal. Nov. 21, 2013\), [complaint](http://www.scribd.com/doc/186402972/Beastie) hosted by Scribd.  
-> **Not:** Viacom Int’l Inc. v. YouTube, Inc., No. 07 Civ. 2103 \(S.D.N.Y. June 23, 2010\), [slip op.](https://cases.justia.com/federal/district-courts/new-york/nysdce/1:2007cv02103/302164/364/0.pdf) hosted by Justia.com
+> **Example:** [MGA Entertainment, Inc. v. Mattel, Inc.](http://www.sunsteinlaw.com/media/BratzTCC.pdf) \(9th Cir. July 22, 2010\)\(No. 09-55673\), hosted by sunsteinlaw.com.  
+> **Example:** Viacom International Inc. v. YouTube, Inc. \(S.D.N.Y. June 23, 2010\)\(No. 07 Civ. 2103\), [slip opinion](http://docfiles.justia.com/cases/federal/district-courts/new-york/nysdce/1:2007cv02103/302164/364/0.pdf), hosted by Justia.com.  
+> **Example:** Complaint for Declaratory Judgment and Injunctive Relief, GoldieBlox, Inc. v. Island Def Jam Music Group, A Div. of UMG Recordings, Inc. \(N.D. Cal. Nov. 21, 2013\)\(No. 3:13-cv-05428\), [complaint](http://www.scribd.com/doc/186402972/Beastie) hosted by Scribd.  
+> **Not:** Viacom Int’l Inc. v. YouTube, Inc. \(S.D.N.Y. June 23, 2010\)\(No. 07 Civ. 2103\), [slip op.](https://cases.justia.com/federal/district-courts/new-york/nysdce/1:2007cv02103/302164/364/0.pdf) hosted by Justia.com.
 
 ## Substance <a id="substance"></a>
 
